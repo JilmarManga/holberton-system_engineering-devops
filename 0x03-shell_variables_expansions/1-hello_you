@@ -1,2 +1,2 @@
 #!/bin/bash
-wall hello user
+wall hello "$user"
